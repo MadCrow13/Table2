@@ -1,0 +1,53 @@
+table {
+    font-family: Playwrite England SemiJoined;
+    border-collapse: collapse;
+    border: 3px solid;
+    }
+
+th {
+    padding: 10px;
+    border: 3px solid;
+    text-align: left;
+    text-transform: capitalize;
+    width: 200px;
+    height: 30px;
+    font-size: 24px;
+}
+
+.size {
+    width: 400px;
+    font-weight: bold;
+}
+
+.size-1 {
+    width: 300px;
+    font-weight: lighter;
+}
+
+td {
+    padding: 10px;
+    border: 3px solid;
+    text-align: left;
+    width: 200px;
+    text-align: left;
+    color: black;
+    font-size: 24px;
+}
+
+.orange {
+    background: orange;
+    border-color: black;
+    color: white;
+}
+
+.blue {
+    background: blue;
+    border-color: black;
+    color: white;
+}
+
+.green {
+    background: green;
+    border-color: black;
+    color: white;
+}
